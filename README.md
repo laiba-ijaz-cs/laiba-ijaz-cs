@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Laiba Ijaz 👋
 
-<!--
-**laiba-ijaz-cs/laiba-ijaz-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science Student at NUTECH | Tech Enthusiast
 
-Here are some ideas to get you started:
+## 🎓 About Me
+- 🔭 Currently in my 3rd semester of BS Computer Science.
+- 💡 Interested in Software Engineering, Application Development, and Data Structures.
+- 🎯 Focused on building scalable applications and strong algorithmic problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- **Languages:** C++, Java, Python
+- **Frameworks & Concepts:** OOP, Logic Design
+- **Tools:** Git, GitHub, VS Code
+
+## 📬 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/laiba-ijaz-cs)
